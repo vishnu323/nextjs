@@ -1,4 +1,4 @@
 nextamplified:
   component: "@sls-next/serverless-component@1.18.0"
   inputs:
-    domain: "nextjsonaws.com"
+    domain: "growdyfellow.ml"
